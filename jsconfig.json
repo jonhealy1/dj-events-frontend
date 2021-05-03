@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+      "baseUrl": ".",
+      "paths": {
+        "@/components/*": ["components/*"],
+        "@/styles/*": ["styles/*"],
+        "@/config/*": ["dj-events-frontend/config/*"]
+      }
+    }
+  }
